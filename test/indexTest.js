@@ -24,6 +24,28 @@ describe('index.js', function () {
     });
   });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   describe('fuzzyMatch()', function () {
     const drivers = [];
 
@@ -46,6 +68,32 @@ describe('index.js', function () {
     });
   });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   describe('matchName()', function () {
     it('accesses the data structure to check if name matches', function () {
       const drivers = [
